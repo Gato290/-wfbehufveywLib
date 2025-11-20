@@ -35,7 +35,7 @@ Compkiller:_RandomString() -> CK=............. : String
 ![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/bd3568ba-4441-46cc-b57d-9e9a721266b7)
 
 
-# [Nothing UI]([https://github.com/Gato290/-wfbehufveywLib/blob/main/Nothing%20Ui%20Lib.lua]))
+# [Nothing UI](https://github.com/Gato290/-wfbehufveywLib/blob/main/Nothing%20Ui%20Lib.lua)
 
 - 📄 Document: https://github.com/3345-c-a-t-s-u-s/NOTHING
 
