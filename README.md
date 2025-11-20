@@ -1,1 +1,30 @@
-https://private-user-images.githubusercontent.com/195278772/457622500-b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM2MjY4NDUsIm5iZiI6MTc2MzYyNjU0NSwicGF0aCI6Ii8xOTUyNzg3NzIvNDU3NjIyNTAwLWIxYzNhNmQyLWVmMWYtNDJlYi05MWZlLWNiZGMyY2UxNzcyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyMFQwODE1NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMjAzZGE4MjUzNmRlOWZiNTk0NjU2N2I5YzZhNTk5NzNhNGIzOTBiMjU5MjdlODg3MmVhYTY5MTQxODMxMGFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iRs6k14sn0bBk8bD_HVIB8KwgpRRmNiEjLQW9LI2bqs
+# CompKiller
+CompKiller UI For Roblox (https://compkiller.net)
+
+- Mobile Friendly
+- Smooth
+- Stable
+
+![image](https://github.com/user-attachments/assets/b1c3a6d2-ef1f-42eb-91fe-cbdc2ce17721) ![image](https://github.com/user-attachments/assets/014e077b-0064-4d56-b0b0-d12e989e64f2)
+
+<img width="1818" height="898" alt="Screenshot 2025-10-20 091725" src="https://github.com/user-attachments/assets/c6e5f705-f36b-4353-9a80-e2e25478282f" />
+
+# Usage ✨
+- [**[Document 📝]**](https://cat-sus.gitbook.io/compkiller/documents/interface)
+- [**[Example 🏫]**](https://github.com/4lpaca-pin/CompKiller/blob/main/examples/Full.luau)
+- [**[Source Code 🔓]**](https://github.com/4lpaca-pin/CompKiller/blob/main/src/source.luau)
+
+# Other Functions 🎖️
+### Icons
+```lua
+Compkiller:_GetIcon(<name : String>) -> Rbx AssetId : String
+```
+Icon from fontawesome
+```lua
+Compkiller:_GetIcon(<name : String> , true) -> Rbx AssetId : String
+```
+
+### Random String
+```lua
+Compkiller:_RandomString() -> CK=............. : String
+```
