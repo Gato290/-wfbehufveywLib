@@ -57,7 +57,7 @@ Maclib provides a multitude of innovative features that streamline the developme
 
 <img width="889" height="672" alt="Screenshot 2025-08-29 021811" src="https://github.com/user-attachments/assets/2d96552b-baee-4c49-927d-ebe0e1f7f908" />
 
-[Website WindUI](https://footagesus.github.io/WindUI-Docs/docs)
+# [WindUI](https://github.com/Gato290/-wfbehufveywLib/blob/main/WindUi%20V2%20Lib.lua)
 <!--<h1 align="center">WindUI</h1> -->
 
 
