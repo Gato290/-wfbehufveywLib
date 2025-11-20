@@ -1,4 +1,3 @@
-
 -- Require Library
 local NothingLibrary = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/3345-c-a-t-s-u-s/NOTHING/main/source.lua'))();
 local Windows = NothingLibrary.new({
@@ -126,4 +125,28 @@ InfoSection:NewButton({
 	Callback = function()
 		print('discord.gg/BH6pE7jesa')
 	end,
+})
+
+-- Key System
+NothingLibrary.NewAuth({
+	Title = "Neuron X",
+	GetKey = function() 
+		return 'https://example.com/key'
+	end,
+	Auth = function(MAIN_KEY)
+		if MAIN_KEY.Name == '1234' then
+			return true;
+		end;
+	end,
+	Freeze = true,
+}).Close();
+
+--Notification
+local Notification = NothingLibrary.Notification();
+
+Notification.new({
+	Description = 'Example';
+	Title = "Notification";
+	Duration = 3;
+	Icon = "rbxassetid://7733993369",
 })
