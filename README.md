@@ -40,3 +40,19 @@ Compkiller:_RandomString() -> CK=............. : String
 - 📄 Document: https://github.com/3345-c-a-t-s-u-s/NOTHING
 
 <img width="627" height="422" alt="Screenshot 2025-08-29 021349" src="https://github.com/user-attachments/assets/36d42413-9770-4102-aff8-67ed69243cd7" />\
+
+
+# [Maclib UI](https://github.com/Gato290/-wfbehufveywLib/blob/main/Maclib%20Lib.lua)
+
+Beautiful Interface
+Experience a sleek, modern interface inspired by macOS with Maclib’s UI, designed to provide a clean and clutter-free space for effortless customization.
+
+Consistent Updates
+Maclib is constantly updated to provide a robust and adaptable framework, ensuring your project stays ahead of the curve and ready for future enhancements.
+
+Innovative Features
+Maclib provides a multitude of innovative features that streamline the development process and elevate the user experience, blending efficiency with elegance to transform your projects.
+
+[Website Maclib](https://brady-xyz.gitbook.io/maclib-ui-library)
+
+<img width="889" height="672" alt="Screenshot 2025-08-29 021811" src="https://github.com/user-attachments/assets/2d96552b-baee-4c49-927d-ebe0e1f7f908" />
