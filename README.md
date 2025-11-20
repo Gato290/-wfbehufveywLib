@@ -28,3 +28,8 @@ Compkiller:_GetIcon(<name : String> , true) -> Rbx AssetId : String
 ```lua
 Compkiller:_RandomString() -> CK=............. : String
 ```
+
+
+# [Fluent UI](https://github.com/Gato290/-wfbehufveywLib/blob/main/Fluent%20UI%20Lib.lua)
+
+![image](https://github.com/x2Swiftz/UI-Library/assets/52291809/bd3568ba-4441-46cc-b57d-9e9a721266b7)
